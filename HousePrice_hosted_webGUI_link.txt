@@ -1,0 +1,23 @@
+House Price Prediction System - Deployment Information
+========================================================
+
+1. Name: Ogundare Deborah
+
+2. Matric Number: 23AG032719
+
+3. Machine Learning Algorithm Used: Random Forest Regressor
+
+4. Model Persistence Method Used: Joblib
+
+5. Live URL of Hosted Application: 
+   [Your deployed URL here, e.g., https://your-app.onrender.com]
+
+6. GitHub Repository Link: 
+   [Your GitHub repo URL, e.g., https://github.com/yourusername/HousePrice_Project]
+
+========================================================
+Additional Information:
+- Deployment Platform: [Render.com / PythonAnywhere / Streamlit Cloud / Vercel]
+- Web Framework: [Flask / Streamlit]
+- Deployment Date: [Date]
+========================================================
